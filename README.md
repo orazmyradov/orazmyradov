@@ -1,11 +1,11 @@
-### Hi 👋, I'm Khalid
+### Hi 👋, I'm Muhammet Orazmyradov
 
-<a href="https://twitter.com/KhalidZoabi" target="_blank"><img src="https://img.shields.io/twitter/follow/KhalidZoabi?logo=twitter&style=for-the-badge" alt="Twitter @KhalidZoabi" /></a>
+<a href="https://twitter.com/tranquiliz0r" target="_blank"><img src="https://img.shields.io/twitter/follow/tranquiliz0r?logo=twitter&style=for-the-badge" alt="Twitter @tranquiliz0r" /></a>
 
 ### Let's connect!
 
-<a href="https://twitter.com/KhalidZoabi" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="test" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kzoabi" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="test" height="30" width="40" /></a>
+<a href="https://twitter.com/tranquiliz0r" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="test" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/orazm" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="test" height="30" width="40" /></a>
 
 ### Languages and Tools
 
