@@ -667,4 +667,4 @@
 
 ### Repositories
 
-Pinned repositories below are authored by me. Check out my [Github Stars](https://github.com/orazmyradov?tab=stars) for notable projects from around the internet!
+Pinned repositories below are authored by me. Check out my [Github Repositories](https://github.com/orazmyradov?tab=repositories) for notable projects from around the internet!
