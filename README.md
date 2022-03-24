@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Muhammet Orazmyradov
 
 <a href="https://twitter.com/tranquiliz0r" target="_blank"><img src="https://img.shields.io/twitter/follow/tranquiliz0r?logo=twitter&style=for-the-badge" alt="Twitter @tranquiliz0r" /></a>
-
+<a href="https://instagram.com/tranquiliz0r" target="_blank"><img src="https://img.shields.io/instagram/follow/tranquiliz0r?logo=instagram&style=for-the-badge" alt="Instagram @tranquiliz0r" /></a>
 ### Let's connect!
 
 <a href="https://twitter.com/tranquiliz0r" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="test" height="30" width="40" /></a>
