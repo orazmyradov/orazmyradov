@@ -1,11 +1,12 @@
 ### Hi 👋, I'm Muhammet Orazmyradov
 
 <a href="https://twitter.com/tranquiliz0r" target="_blank"><img src="https://img.shields.io/twitter/follow/tranquiliz0r?logo=twitter&style=for-the-badge" alt="Twitter @tranquiliz0r" /></a>
-<a href="https://instagram.com/tranquiliz0r" target="_blank"><img src="https://img.shields.io/instagram/follow/tranquiliz0r?logo=instagram&style=for-the-badge" alt="Instagram @tranquiliz0r" /></a>
+
 ### Let's connect!
 
 <a href="https://twitter.com/tranquiliz0r" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="test" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/orazm" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="test" height="30" width="40" /></a>
+<a href="https://instagram.com/tranquiliz0r" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="test" height="30" width="40" /></a>
 
 ### Languages and Tools
 
@@ -667,4 +668,4 @@
 
 ### Repositories
 
-Pinned repositories below are authored by me. Check out my [Github Repositories](https://github.com/orazmyradov?tab=repositories) for notable projects from around the internet!
+Pinned repositories below are authored by me. Check out my [Github Repositories](https://github.com/orazmyradov?tab=repositories) for some of my notable projects.
